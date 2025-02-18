@@ -11,4 +11,8 @@ git clone https://www.modelscope.cn/LLM-Research/Meta-Llama-3-8B-Instruct.git
 
 valid_llama_params.py
 
+八卡微调SFT模型
+
+https://llamafactory.readthedocs.io/zh-cn/latest/advanced/distributed.html
+
 
